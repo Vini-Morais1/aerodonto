@@ -8,7 +8,7 @@ const Contato = () => {
         Entre em contato
       </h1>
       <section className="full flex justify-center px-6 py-8 bg-zinc-200 dark:bg-zinc-900">
-        <div className="bg-stone-50 flex flex-col items-center gap-4 ml:flex-row ml:gap-0 ml:pl-4 ml:border border-gray-400 ml:dark:bg-zinc-950 ml:justify-center lg:w-[957px] text-center shadow-xl">
+        <div className="bg-stone-50 flex flex-col items-center gap-4 ml:flex-row ml:gap-0 ml:pl-4 ml:border border-gray-400 dark:bg-zinc-950 ml:justify-center lg:w-[957px] text-center shadow-xl">
           <div className="flex flex-col gap-4 ml:w-2/3">
             <div className="flex flex-col items-center">
               <h3 className="text-2xl ml:text-4xl">Consultório Aerodonto</h3>
