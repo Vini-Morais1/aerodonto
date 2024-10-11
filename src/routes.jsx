@@ -22,7 +22,6 @@ const AppRoutes = () => {
           <Route path="/endodontia" element={<Endodontia />} />
           <Route path="*" element={<NaoEncontrada />} />
         </Route>
-        <Route path="*" element={<PaginaBase />} />
       </Routes>
     </BrowserRouter>
   );
