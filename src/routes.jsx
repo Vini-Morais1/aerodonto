@@ -13,7 +13,7 @@ const AppRoutes = () => {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<PaginaBase />}>
+        <Route path="/aerodonto" element={<PaginaBase />}>
           <Route index element={<Inicio />} />
           <Route path="/sobre" element={<Sobre />} />
           <Route path="/contato" element={<Contato />} />
