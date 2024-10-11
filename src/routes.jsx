@@ -11,15 +11,15 @@ import FacetasEmResina from "./Pages/FacetasEmResina";
 
 const AppRoutes = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/aerodonto">
       <Routes>
-        <Route path="/aerodonto" element={<PaginaBase />}>
+        <Route path="/" element={<PaginaBase />}>
           <Route index element={<Inicio />} />
-          <Route path="/sobre" element={<Sobre />} />
-          <Route path="/contato" element={<Contato />} />
-          <Route path="/facetas-em-resina" element={<FacetasEmResina />} />
-          <Route path="/implantodontia" element={<Implantodontia />} />
-          <Route path="/endodontia" element={<Endodontia />} />
+          <Route path="sobre" element={<Sobre />} />
+          <Route path="contato" element={<Contato />} />
+          <Route path="facetas-em-resina" element={<FacetasEmResina />} />
+          <Route path="implantodontia" element={<Implantodontia />} />
+          <Route path="endodontia" element={<Endodontia />} />
           <Route path="*" element={<NaoEncontrada />} />
         </Route>
       </Routes>
