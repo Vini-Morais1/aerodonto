@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "autor": "William Fátima",
+        "feedback": "Excelente atendimento! Profissional cuidadosa, atenciosa e com um ambiente super limpo. Recomendo!",
+        "img": "https://lh3.googleusercontent.com/a-/ALV-UjWPHeat_6aaXIimGZwh1AQ7iTiIP0wrE94WZHvGI4Zc1PYbRa1GgQ=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 2,
+        "autor": "Suelen Mara (Oliveira)",
+        "feedback": "Ótimo atendimento, super indico. A dra é super atenciosa ❤️ E preço justo.",
+        "img": "https://lh3.googleusercontent.com/a-/ALV-UjWtEqzkbpLzIv08B7Ig_fE-U_rXWgNonyQnBcJGmmSfrZCNJo6gbQ=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 3,
+        "autor": "Henrique Souza",
+        "feedback": "Excelente atendimento e o ótima profissional! Super recomendo!",
+        "img": "https://lh3.googleusercontent.com/a/ACg8ocIrZufJhzdeySLRuOwQcWCXNVEPTIFJAh4OpccNJr1OZWhCwQ=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 4,
+        "autor": "Flavia Bragança",
+        "feedback": "Preço justo e atendimento excelente.",
+        "img": "https://lh3.googleusercontent.com/a-/ALV-UjXkCprRXZxgVxM9XRGozi383YSfy4fYdaXKWx7f4GNylIvJfpGU=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 5,
+        "autor": "Natalia Matos",
+        "feedback": "Ótima, sempre muito atenciosa.",
+        "img": "https://lh3.googleusercontent.com/a-/ALV-UjUBXtFUZLUchujPFmzb-AauexZr9X2H-HSorTL46Nqz0OuQu5Ua=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 6,
+        "autor": "Flaviane Pires",
+        "feedback": "Profissional capacitada, atenciosa e muito gentil. Tratamento rápido e eficaz. Preço justo, transparência e pagamento facilitado.",
+        "img": "https://lh3.googleusercontent.com/a/ACg8ocI7HRWI_wjheka6_nmq7xNf_CIhJVVYu0a4rwNA1D9F17Ijlw=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 7,
+        "autor": "Fran Alves",
+        "feedback": "Excelente atendimento.",
+        "img": "https://lh3.googleusercontent.com/a-/ALV-UjVkF52-pTMuAUejiCe9OzE-u7pY7XvCLL0qf6DmWBQZUPm6IbWH=w60-h60-p-rp-mo-br100"
+    },
+    {
+        "id": 8,
+        "autor": "Wallison Pereira",
+        "feedback": "Legal.",
+        "img": "https://lh3.googleusercontent.com/a-/ALV-UjVQeOiFTfkoQBtg1YkOEFIAT5XJD0O5LlTI1DKSJbYoPFa7MrYBgA=w60-h60-p-rp-mo-br100"
+    }
+]
