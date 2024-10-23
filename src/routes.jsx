@@ -11,7 +11,7 @@ import FacetasEmResina from "./Pages/FacetasEmResina";
 
 const AppRoutes = () => {
   return (
-    <BrowserRouter basename="/aerodonto">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<PaginaBase />}>
           <Route index element={<Inicio />} />
