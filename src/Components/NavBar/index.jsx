@@ -25,7 +25,7 @@ const NavBar = () => {
       <Navbar
         fluid
         rounded
-        className="p-6 shadow fixed top-0 w-full z-10 bg-white dark:text-gray-100 dark:bg-dark-100 dark:shadow-none"
+        className="p-6 shadow fixed top-0 w-full z-[99999] bg-white dark:text-gray-100 dark:bg-dark-100 dark:shadow-none"
       >
         <div className="flex-col gap-2 items-center">
           <Link to="/" onClick={scrollToTop}>
